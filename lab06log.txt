@@ -1,0 +1,38 @@
+Script started on 2021-10-07 20:56:05-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab06[006799085@csusb.edu@jb359-3 Lab06]$ g++ -c Stack.cpp
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab06[006799085@csusb.edu@jb359-3 Lab06]$ g++ a[Klab06.cpp -o lab06
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab06[006799085@csusb.edu@jb359-3 Lab06]$ ./lab06
+
+Enter the sequence: 
+(
+(
+(
+)
+)
+)
+(
+(
+)
+x
+
+The parentheses are unbalanced.
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab06[006799085@csusb.edu@jb359-3 Lab06]$ ./lab06
+
+Enter the sequence: 
+(
+(
+(
+)
+)
+)
+(
+)
+(
+)
+x
+
+The parentheses are balanced.
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab06[006799085@csusb.edu@jb359-3 Lab06]$ exit
+exit
+
+Script done on 2021-10-07 20:57:41-07:00 [COMMAND_EXIT_CODE="0"]
